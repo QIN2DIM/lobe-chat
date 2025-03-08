@@ -5,7 +5,7 @@
 export const LOBE_CHAT_CLOUD = 'EvolChat Cloud';
 
 export const BRANDING_NAME = 'EvolChat';
-export const BRANDING_LOGO_URL = '/icons/128x128.png';
+export const BRANDING_LOGO_URL = '/icons/icon-192x192.png';
 
 export const ORG_NAME = 'Eam';
 
